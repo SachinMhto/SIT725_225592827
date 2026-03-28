@@ -1,0 +1,14 @@
+{
+  "name": "recipe-app",
+  "version": "1.0.0",
+  "description": "SIT725 Task 3.2P Recipe App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
