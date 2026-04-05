@@ -11,7 +11,7 @@ function addCards(items) {
     let itemToAppend = `
       <div class="col s12 m6 l4">
         <div class="card medium">
-         <span class="card-title black-text text-center">${item.title}</span>
+         <span class="card-title black-text">${item.title}</span>
           <div class="card-image">
           
             <img src="${item.image}" alt="${item.title}">
