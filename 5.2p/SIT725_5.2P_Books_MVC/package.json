@@ -1,0 +1,21 @@
+{
+  "name": "sit725-5.2p-books-mvc",
+  "version": "1.0.0",
+  "description": "Books catalog app using MVC with Express and vanilla JS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "keywords": [
+    "express",
+    "mvc",
+    "sit725",
+    "books"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
