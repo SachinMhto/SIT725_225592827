@@ -1,0 +1,29 @@
+{
+  "name": "movie-collection-app-mongodb",
+  "version": "1.0.0",
+  "description": "A Node.js, Express, EJS and MongoDB movie collection app for SIT task submission.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "express",
+    "mongodb",
+    "mongoose",
+    "ejs",
+    "deakin",
+    "sit725"
+  ],
+  "author": "Sachin Mahato",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
